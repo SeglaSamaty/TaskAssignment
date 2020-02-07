@@ -1,4 +1,4 @@
-# TaskScheduling
+# TaskAssignment
 
 Edmond-Karp algirithm implementation to assign task to Team Members or workers
 Restrictions:
